@@ -7,7 +7,7 @@ With AI models such as ChatGPT, Google BARD, etc popping up: making my own GPT m
 behind how they work seemed like a great project!
 
 ## Referenced Material:
-Andrej Karpathy
-https://cdn.openai.com/papers/gpt-4.pdf
-https://arxiv.org/pdf/2005.14165.pdf
-https://en.wikipedia.org/wiki/Generative_pre-trained_transformer
+Andrej Karpathy  
+https://cdn.openai.com/papers/gpt-4.pdf  
+https://arxiv.org/pdf/2005.14165.pdf  
+https://en.wikipedia.org/wiki/Generative_pre-trained_transformer  
