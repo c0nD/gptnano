@@ -13,6 +13,6 @@ https://arxiv.org/pdf/2005.14165.pdf
 https://en.wikipedia.org/wiki/Generative_pre-trained_transformer  
 
 ## Installation Information
-Installing the required libraries:
-`pip3 install -r lib.txt`
+Installing the required libraries:  
+`pip3 install -r lib.txt`  
 *Important Note: pytorch is **not** compatible with Python versions higher than 3.9, you can use this to install 3.9 https://www.python.org/downloads/release/python-390/*
