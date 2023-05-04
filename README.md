@@ -8,9 +8,12 @@ behind how they work seemed like a great project!
 
 ## Referenced Material:
 Andrej Karpathy  
+https://aclanthology.org/2021.acl-long.259.pdf  
 https://cdn.openai.com/papers/gpt-4.pdf  
 https://arxiv.org/pdf/2005.14165.pdf  
 https://en.wikipedia.org/wiki/Generative_pre-trained_transformer  
+https://web.stanford.edu/~jurafsky/slp3/3.pdf  
+https://paperswithcode.com/method/gpt  
 
 ## Installation Information
 Installing the required libraries:  
