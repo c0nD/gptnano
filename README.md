@@ -1,4 +1,4 @@
-# gpt-nano
+# mini-gpt
 Mini-Generative Pretrained Transformer
 
 ## Motivation:
@@ -14,7 +14,9 @@ https://arxiv.org/pdf/2005.14165.pdf
 https://en.wikipedia.org/wiki/Generative_pre-trained_transformer  
 https://web.stanford.edu/~jurafsky/slp3/3.pdf  
 https://paperswithcode.com/method/gpt  
-https://arxiv.org/abs/2006.16362  
+https://arxiv.org/abs/2006.16362   
+https://arxiv.org/abs/1706.03762  
+https://arxiv.org/abs/2005.14165  
 
 
 ## Installation Information
