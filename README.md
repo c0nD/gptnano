@@ -14,6 +14,8 @@ https://arxiv.org/pdf/2005.14165.pdf
 https://en.wikipedia.org/wiki/Generative_pre-trained_transformer  
 https://web.stanford.edu/~jurafsky/slp3/3.pdf  
 https://paperswithcode.com/method/gpt  
+https://arxiv.org/abs/2006.16362  
+
 
 ## Installation Information
 Installing the required libraries:  
